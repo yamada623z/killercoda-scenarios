@@ -1,5 +1,5 @@
 {
-  "title": "kubernetesハンズオン①",
+  "title": "kubernetesハンズオン",
   "description": "kubernetesの環境を構築し、クラスタを構成します。（CRI:containerd）",
   "difficulty": "Beginner",
   "time": "1 hours",
