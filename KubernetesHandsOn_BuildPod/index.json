@@ -1,5 +1,5 @@
 {
-  "title": "kubernetesハンズオン",
+  "title": "kubernetesハンズオン③",
   "description": "kubernetesの環境に静的WebサービスのPodを作成・動作確認を実施します。",
   "difficulty": "Beginner",
   "time": "1 hours",

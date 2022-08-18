@@ -1,0 +1,9 @@
+{
+  "items": [
+    { "path": "DockerHandsOn" },
+    { "path": "DockerHandsOn-Observable" },
+    { "path": "KubernetesHandsOn_BuildClusterDocker" },
+    { "path": "KubernetesHandsOn_BuildClusterContainerd" },
+    { "path": "KubernetesHandsOn_BuildPod" }
+  ]
+}
