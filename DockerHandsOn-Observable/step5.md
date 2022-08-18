@@ -11,7 +11,7 @@
 > ③新しいブラウザタブ「**Traffic Port Accessor**」が表示されたら、「**Custom Ports**」の下のボックスに「**9090**」を入力し、「**Access**」をクリックします。  
 
 **（表示例）**  
-![Step5-1](./assets/Step5-1.jpg)  
+![Step5-1](https://github.com/yamada623z/scenario-image/raw/main/ObservableHandsOn/Step5-1.jpg)  
 
 基になるメトリックをクエリ（補足：クエリ＝要求）してグラフを作成するには、ダッシュボードのグラフページにアクセスしてください。ここから、名前に基づいてさまざまなメトリックを照会できます。  
 

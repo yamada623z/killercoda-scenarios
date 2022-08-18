@@ -9,4 +9,4 @@
 開始したら、Weave Scopeを使用して、新しいコンテナとコンテナWeave Weave 覚化します。  
 
 （表示例）  
-![Scope demo](./assets/Step15.jpg)  
+![Scope demo](https://github.com/yamada623z/scenario-image/raw/main/ObservableHandsOn/Step15.jpg)  

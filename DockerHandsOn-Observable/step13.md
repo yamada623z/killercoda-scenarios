@@ -10,7 +10,7 @@ Weave Scopeコンテナが起動すると、ポート4040でUIにアクセスで
 > ③新しいブラウザタブ「**Traffic Port Accessor**」が表示されたら、「**Custom Ports**」の下のボックスに「**4040**」を入力し、「**Access**」をクリックします。  
 
 （表示例）
-![Scope farst](./assets/Step13-1.jpg)  
+![Scope farst](https://github.com/yamada623z/scenario-image/raw/main/ObservableHandsOn/Step13-1.jpg)  
 
 新しいコンテナーが起動されると、Scopeはライブアーキテクチャ（リアルタイムな機能仕様）を反映するように自動的に更新されます。  
 
