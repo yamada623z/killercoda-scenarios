@@ -24,7 +24,8 @@ $ `sudo vi /etc/hosts`
 
 ④「br_netfilter」モジュールがロードされていることを確認します。  
 
-$ `lsmod | grep br_netfilter`  
+$ `lsmod | grep br_netfilter`{{copy}}  
+
 **（表示例）**
 
 ```text
@@ -88,10 +89,10 @@ $ `sysctl --system`
   $ `apt-get update && apt-get install -y apt-transport-https ca-certificates curl software-properties-common`  
 
 - Docker公式のGPG鍵を追加します。  
-  $ `curl -fsSL https://download.docker.com/linux/ubuntu/gpg | apt-key add -`  
+  $ `curl -fsSL https://download.docker.com/linux/ubuntu/gpg | apt-key add -`{{copy}}  
 
 - Dockerのaptリポジトリの追加します。  
-  $ `add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"`  
+  $ `add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"`{{copy}}  
 
 - containerdのインストールします。  
   $ `apt-get update && apt-get install -y containerd.io`  

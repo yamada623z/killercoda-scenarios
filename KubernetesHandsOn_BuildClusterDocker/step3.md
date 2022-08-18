@@ -54,6 +54,6 @@ xxxxxx.xxxxxxxxxxxxx --discovery-token-ca-cert-hash sha256:xxxxxxx
 
 $ `mkdir -p $HOME/.kube`  
 
-$ `sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config`  
+$ `sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config`{{copy}}  
 
 $ `sudo chown $(id -u):$(id -g) $HOME/.kube/config`  

@@ -10,7 +10,8 @@
 
 ⑦kubernetes のキーとリポジトリを登録します。  
 
-\# `curl -s https://packages.cloud.google.com/apt/doc/aptkey.gpg | apt-key add -`  
+\# `curl -s https://packages.cloud.google.com/apt/doc/aptkey.gpg | apt-key add -`{{copy}}  
+
 \# `apt-add-repository “deb http://apt.kubernetes.io/kubernetes-xenial main"`  
 
 ⑧スワップをオフにします。  

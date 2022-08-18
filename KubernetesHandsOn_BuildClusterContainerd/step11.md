@@ -87,7 +87,7 @@ kubernetes-dashboard  kubernetes-dashboard    NodePort    yyy.yyy.yyy.yyy  <none
 > **KillercodaのWebアクセス方法：**  
 > ①ターミナルペインの「**Tab1**」「**＋**」のタグの並びの一番右にある「**三**」をクリックする。  
 > ②表示されるドロップリストから「**Traffic / Ports**」をクリックする。
-> ③新しいブラウザタブ「**Traffic Port Accessor**」が表示されたら、「**Custom Ports**」の下のボックスに「**9090**」を入力し、「**Access**」をクリックします。  
+> ③新しいブラウザタブ「**Traffic Port Accessor**」が表示されたら、「**Host 1**」「**Custom Ports**」の下のボックスに「**9090**」を入力し、「**Access**」をクリックします。  
 
 （表示例）  
 ![DashBoard Image](https://github.com/yamada623z/scenario-image/raw/main/KubernetesHandsOn_BuildCluster/Step11.jpg)  

@@ -19,4 +19,4 @@ Weave Scopeコンテナが起動すると、ポート4040でUIにアクセスで
 追加のフロントエンドコンテナを起動して結果を確認してください。  
 
 （表示例）  
-![Scope container plus](./assets/Step13-2.jpg)  
+![Scope container plus](https://github.com/yamada623z/scenario-image/raw/main/ObservableHandsOn/Step13-2.jpg)  

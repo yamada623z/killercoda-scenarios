@@ -44,6 +44,7 @@ eyJhbGciOiJSUzI1NiIsImtpZCI6ImVBaDNDeElCdG9jU3BQNmZOVTB4N1MwWlBrVGY4d2F1M191SnY2
 
 ④上記コマンドで表示された文字列をマウスで選択し、コピーします。  
 *※ここでサインインしたままの状態の場合は、次の手順を実施する前に右上の丸い人物アイコンで下の表示例のサインアウト状態してください。*  
+*※「error forwarding port 9090」が発生した場合は、Step11-②を再実行してください。*  
 
 **（表示例）**  
 ![DashBoard Image](https://github.com/yamada623z/scenario-image/raw/main/KubernetesHandsOn_BuildCluster/Step11.jpg)  
@@ -52,3 +53,5 @@ eyJhbGciOiJSUzI1NiIsImtpZCI6ImVBaDNDeElCdG9jU3BQNmZOVTB4N1MwWlBrVGY4d2F1M191SnY2
 
 **（表示例）**  
 ![DashBoard Image](https://github.com/yamada623z/scenario-image/raw/main/KubernetesHandsOn_BuildCluster/Step13.jpg)  
+
+*※検索ボックス左横のネームスペースの設定を「default」から「すべてのネームスペース」としてください。*  
