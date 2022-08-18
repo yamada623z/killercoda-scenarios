@@ -46,7 +46,7 @@ eyJhbGciOiJSUzI1NiIsImtpZCI6ImVBaDNDeElCdG9jU3BQNmZOVTB4N1MwWlBrVGY4d2F1M191SnY2
 *※ここでサインインしたままの状態の場合は、次の手順を実施する前に右上の丸い人物アイコンで下の表示例のサインアウト状態してください。*  
 
 **（表示例）**  
-![DashBoard Image](./assets/Step11.jpg)  
+![DashBoard Image](https://github.com/yamada623z/scenario-image/raw/main/KubernetesHandsOn_BuildCluster/Step11.jpg)  
 
 ⑤現在、ダッシュボードに表示されている「Kubernetes Dashboard」のウインドウ上のラジオボタン「**トークン**」をチェックし、下段の「**トークンを入力**」に④でコピーした文字列をペーストして「**サインイン**」ボタンをクリックします。  
 
