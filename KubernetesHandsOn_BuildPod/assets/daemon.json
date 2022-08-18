@@ -1,0 +1,8 @@
+{
+  "exec-opts": ["native.cgroupdriver=systemd"],
+  "log-driver": "json-file",
+  "storage-driver": "overlay2",
+  "registry-mirrors": ["https://mirror.gcr.io","https://docker-mirror.killer.sh"],
+  "insecure-registries": ["http://172.30.1.2:5000"],
+  "mtu": 1454
+}
