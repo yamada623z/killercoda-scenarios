@@ -19,6 +19,6 @@ $ `kubectl get pods`{{execute}}
 - 削除した分のPodが新たに生成されていることを確認する。（削除したPod名の消滅、新たなPod名での生成を確認します）  
 
 ④Step9でアクセスした、**現在アクセス中のPodの名前が表示されているブラウザ** をリロードして、サービスが継続していることを確認します。  
-**（表示例）**  
 
+（表示例）  
 ![Welcome Image](https://github.com/yamada623z/scenario-image/raw/main/KubernetesHandsOn_BuildPod/Uname.jpg)  

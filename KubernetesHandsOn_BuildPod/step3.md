@@ -2,7 +2,8 @@
 
 プライベートレジストリで管理されているコンテナイメージの参照・削除などはWeb-UIを構築することで可能となります。  
 
-**【registryノードで実施】※本レッスンではmasterノード（controlplane:Tab1）で実施します。**  
+## 【registryノードで実施】
+**※本レッスンではmasterノード（controlplane:Tab1）で実施します。**  
 
 ①プライベートレジストリのWeb-UIのコンテナイメージをパブリックレジストリからpullします。  
 $ `docker pull hyper/docker-registry-web`{{execute}}  

@@ -28,7 +28,7 @@ $ `kubectl port-forward service/kubernetes-dashboard -n kubernetes-dashboard --a
 
 ### **２．kubectl proxyコマンドによる方法（localhostからのアクセス）**  
 
-（今回は実施しないでください。）  
+**（今回は実施しないでください。）**  
 
 ①「**kubectl proxy**」を起動し、ブラウザでアクセス出来るようにします。  
 $ `kubectl proxy`  
@@ -45,7 +45,7 @@ services/https:kubernetes-dashboard:/proxy/`
 
 ### **３．外部ノードからのアクセスを可能とする方法**
 
-（今回は実施しないでください。）  
+**（今回は実施しないでください。）**  
 
 masterノードのポートを使用して、外部ノードからアクセス出来るようにします。  
 

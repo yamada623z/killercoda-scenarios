@@ -1,6 +1,6 @@
 # クラスターの生成（kubeadm init）（masterノード（controlplane））
 
-*※このステップは本レッスンでは必要ありません。*  
+**※このステップは本レッスンでは必要ありません。**  
 
 ①kubernetesの構築を行います。
 （使用するCNIによって「--pod-network-cidr」の指定が必要です。）  

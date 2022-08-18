@@ -1,6 +1,6 @@
 # kubeadmのインストール（masterノード（controlplane））
 
-*※このステップは本レッスンでは必要ありません。*
+**※このステップは本レッスンでは必要ありません。**
 
 ## 【masterノード（controlplane）で実施】  
 

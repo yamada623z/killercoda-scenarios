@@ -2,7 +2,7 @@
 
 Pod作成に必要な二つのコンテナイメージを作成します。  
 
-**【masterノードで実施（controlplane:Tab1）】**  
+## 【masterノードで実施（controlplane:Tab1）】  
 
 ①Topフォルダ（nginxphp）と作成するコンテナイメージ毎（nginx,php-fpm）にフォルダを作成します。  
 

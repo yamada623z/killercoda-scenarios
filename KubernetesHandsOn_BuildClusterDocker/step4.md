@@ -1,6 +1,6 @@
 # CNI（Contena Network Intarface）のインストール（masterノード）
 
-*※このステップは本レッスンでは必要ありません。*  
+**※このステップは本レッスンでは必要ありません。**  
 
 ①**CNI（Contena Network Intarface）** のインストールのため、manifestファイル（yaml）のダウンロードを実施します。(今回はCNIに「weave」を使用します)  
 
