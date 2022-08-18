@@ -26,7 +26,7 @@ $ `sudo vi /etc/hosts`
 
 ④「br_netfilter」モジュールがロードされていることを確認します。  
 
-$ `lsmod | grep br_netfilter`
+$ `lsmod | grep br_netfilter`{{copy}}
 
 **（表示例）**  
 

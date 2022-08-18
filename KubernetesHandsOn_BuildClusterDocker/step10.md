@@ -43,7 +43,7 @@ $ `kubectl cluster-info`{{execute}}
 （表示）
 
 ```text
-Kubernetes controlplane is running at https://xxx.xxx.xxx.xxx:6443
+Kubernetes control plane is running at https://xxx.xxx.xxx.xxx:6443
 CoreDNS is running at
 https://xxx.xxx.xxx.xxx:6443/api/v1/namespaces/kubesystem/services/kube-dns:dns/proxy
 ```  

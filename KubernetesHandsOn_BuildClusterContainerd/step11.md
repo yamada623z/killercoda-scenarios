@@ -50,7 +50,7 @@ services/https:kubernetes-dashboard:/proxy/`
 masterノードのポートを使用して、外部ノードからアクセス出来るようにします。  
 
 ①Podの状態からダッシュボードのみを表示します。  
-$ `kubectl get pods --all-namespaces | grep dashboard`  
+$ `kubectl get pods --all-namespaces | grep dashboard`{{copy}}  
 
 ②ダッシュボードの定義ファイルを編集します。  
 $ `kubectl -n kubernetes-dashboard edit service kubernetes-dashboard`  
